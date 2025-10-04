@@ -1,9 +1,9 @@
-# 3D files for WindNerd One - WiFi Anemometer
+# 3D files for WindNerd 3D-Printed Anemometer
 
 ![Image](images/windnerd-one-freecad-screenshot-transparent.png)
 
-WindNerd One is a WiFi wind meter, purposefully engineered for 3D printing and real-world use.
-This repository includes the complete set of STL files for printing your own WindNerd One, along with the original **FreeCAD source file** you can edit to suit your needs.
+The WindNerd anemometer is purposefully engineered for 3D printing and real-world use.
+This repository includes the complete set of STL files for printing your own wind meter, along with the original **FreeCAD source file** you can edit to suit your needs.
 
 ### Features
 
@@ -12,7 +12,7 @@ This repository includes the complete set of STL files for printing your own Win
 - Fits common 6001 standard bearings
 - No wiring or mechanical contacts, sensing is **fully magnetic** using Hall ICs on single integrated PCB
 
-The electronics and additional hardware are [**available as a kit**](https://windnerd.net/en/shop)
+Electronics and essential parts are [**available as a kit**](https://windnerd.net/en/shop)
 
 
 ## STL - 3D printing
@@ -28,4 +28,5 @@ Can be opened and edited with FreeCAD, a free and open-source parametric CAD too
 ![Image](images/windnerd-one-freecad-screenshot.png)
 
 All files are openly licensed via [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 © 2025 WindNerd.net – You are free to share and remix, even commercially, as long as you credit us and use the same license.
