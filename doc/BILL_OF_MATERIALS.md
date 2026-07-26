@@ -19,14 +19,16 @@
 
 #### WindNerd One  
 Home Wi-Fi anemometer - power input voltage **5 to 16 V**  
-[Documentation](https://windnerd.net/docs/category/windnerd-one)
 
 #### WindNerd One-S  
-Home Wi-Fi anemometer (low power) - runs on a **single lithium cell**  
-[Documentation](https://windnerd.net/docs/category/windnerd-one)
+Home Wi-Fi anemometer (low power) - runs on a **single lithium cell**
 
 #### WindNerd Core  
 Serial sensor and Arduino-compatible development board - certified open hardware  
 [Documentation](https://github.com/windnerd-labs/Windnerd-Core)
+
+#### WindNerd OnSpot  
+Cellular LTE with [open source firmware](https://github.com/windnerd-labs/onspot-firmware)
+
 
 Boards and small parts are available at [WindNerd Shop](https://windnerd.net/en/shop/)
