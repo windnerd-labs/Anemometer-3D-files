@@ -17,8 +17,8 @@
 
 ### Compatible Sensor Boards
 
-#### WindNerd One  
-Home Wi-Fi anemometer - power input voltage **5 to 16 V**  
+#### WindNerd Node  
+ESP32C3 Wi-Fi dev board - compatible ESPHome  
 
 #### WindNerd One-S  
 Home Wi-Fi anemometer (low power) - runs on a **single lithium cell**
